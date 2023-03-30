@@ -1,4 +1,4 @@
-[src]
+[missions]
 mission_conquer_5_states: https://danbooru.donmai.us/posts/4197597
 mission_have_two_subjects: https://gelbooru.com/index.php?page=post&s=view&id=6983330
 mission_landsknecht_soldier: https://gelbooru.com/index.php?page=post&s=view&id=8052429
@@ -28,6 +28,7 @@ mission_buddhist_monk_praying: https://danbooru.donmai.us/posts/5519043?q=robe+m
 mission_sea_battles: https://danbooru.donmai.us/posts/6003674?q=ship+weapon+
 mission_hands_praying: https://gelbooru.com/index.php?page=post&s=view&id=5319172&tags=praying+rating%3Ageneral
 mission_religious: https://gelbooru.com/index.php?page=post&s=view&id=8369960&tags=praying
-[todo]
-finish generic
-dlc missions
+mission_steppe_warriors: https://danbooru.donmai.us/posts/1037818?q=genghis_khan
+
+[dlc/rb]
+mission_rb_build_furnaces: https://gelbooru.com/index.php?page=post&s=view&id=1437774&tags=%7Bfactory+~+industrial%7D+-no_humans+
