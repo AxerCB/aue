@@ -14,7 +14,7 @@ mission_alliances: https://gelbooru.com/index.php?page=post&s=view&id=2449913&ta
 mission_war_chest: https://safebooru.org/index.php?page=post&s=view&id=3995984
 mission_italian_condottiere: https://gelbooru.com/index.php?page=post&s=view&id=8261036&tags=horse+plate_armor+
 mission_conquer_50_development: https://gelbooru.com/index.php?page=post&s=view&id=6773925&tags=castle
-mission_high_income: https://danbooru.donmai.us/posts/4255755?q=balance_scale
+mission_high_income: https://gelbooru.com/index.php?page=post&s=view&id=7847716&tags=1boy+coin+gold+rating%3Ageneral
 mission_european_church: https://danbooru.donmai.us/posts/3800863?q=cathedral+outdoors+
 mission_establish_high_seas_navy: https://gelbooru.com/index.php?page=post&s=view&id=8303847&tags=fleet+-science_fiction+
 mission_galleys_in_port: https://gelbooru.com/index.php?page=post&s=view&id=6310151&tags=ship+1girl+mast+
@@ -22,9 +22,12 @@ mission_non-western_soldiers: https://gelbooru.com/index.php?page=post&s=view&id
 mission_have_manufactories: https://danbooru.donmai.us/posts/2137360?q=blacksmith+
 mission_empire: https://gelbooru.com/index.php?page=post&s=view&id=7508636&tags=holding_crown
 mission_dominate_home_trade_node: https://danbooru.donmai.us/posts/4215032?q=venice+
-mission_build_up_to_force_limit: https://gelbooru.com/index.php?page=post&s=view&id=7991305&tags=plate_armor+sword+shield+%7B1girl+~+multiple_girls%7D
+mission_build_up_to_force_limit: https://gelbooru.com/index.php?page=post&s=view&id=6616904&tags=%7B1girl+~+multiple_girls%7D+sword+armor+outdoors++%7Bmultiple_girls+~+multiple_boys%7D
 mission_crusade_for_varna: https://gelbooru.com/index.php?page=post&s=view&id=378706&tags=horse+sword+%7B1girl+~+multiple_girls%7D+armor+
-
+mission_buddhist_monk_praying: https://danbooru.donmai.us/posts/5519043?q=robe+monk
+mission_sea_battles: https://danbooru.donmai.us/posts/6003674?q=ship+weapon+
+mission_hands_praying: https://gelbooru.com/index.php?page=post&s=view&id=5319172&tags=praying+rating%3Ageneral
+mission_religious: https://gelbooru.com/index.php?page=post&s=view&id=8369960&tags=praying
 [todo]
 finish generic
 dlc missions
