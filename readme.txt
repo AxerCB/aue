@@ -4,7 +4,7 @@ mission_have_two_subjects: https://gelbooru.com/index.php?page=post&s=view&id=69
 mission_landsknecht_soldier: https://gelbooru.com/index.php?page=post&s=view&id=8052429
 mission_kowtow: https://safebooru.org/index.php?page=post&s=view&id=4182440
 mission_non-western_cavalry_raid: https://gelbooru.com/index.php?page=post&s=view&id=8286349&tags=horse+bow_%28weapon%29+
-mission_ottoman_harem: https://danbooru.donmai.us/posts/2192836
+mission_ottoman_harem: https://gelbooru.com/index.php?page=post&s=view&id=1033920&tags=desert+city
 mission_indian_soldier_elephant: https://danbooru.donmai.us/posts/618580?q=elephant+riding+
 mission_ne_birch_bark_canoes: https://danbooru.donmai.us/posts/5567732?q=canoe+
 mission_bedouins: https://gelbooru.com/index.php?page=post&s=view&id=1985802&tags=camel+desert
@@ -29,6 +29,8 @@ mission_sea_battles: https://danbooru.donmai.us/posts/6003674?q=ship+weapon+
 mission_hands_praying: https://gelbooru.com/index.php?page=post&s=view&id=5319172&tags=praying+rating%3Ageneral
 mission_religious: https://gelbooru.com/index.php?page=post&s=view&id=8369960&tags=praying
 mission_steppe_warriors: https://danbooru.donmai.us/posts/1037818?q=genghis_khan
-
+mission_persian_soldiers: https://danbooru.donmai.us/posts/2307218?q=hardin_%28fire_emblem%29+
+mission_early_modern_university: https://gelbooru.com/index.php?page=post&s=view&id=8083908&tags=school+outdoors
+mission_arabian_fort: https://gelbooru.com/index.php?page=post&s=view&id=2987809&tags=desert+city
 [dlc/rb]
 mission_rb_build_furnaces: https://gelbooru.com/index.php?page=post&s=view&id=1437774&tags=%7Bfactory+~+industrial%7D+-no_humans+
