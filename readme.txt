@@ -32,5 +32,11 @@ mission_steppe_warriors: https://danbooru.donmai.us/posts/1037818?q=genghis_khan
 mission_persian_soldiers: https://danbooru.donmai.us/posts/2307218?q=hardin_%28fire_emblem%29+
 mission_early_modern_university: https://gelbooru.com/index.php?page=post&s=view&id=8083908&tags=school+outdoors
 mission_arabian_fort: https://gelbooru.com/index.php?page=post&s=view&id=2987809&tags=desert+city
-[dlc/rb]
+se_along_the_river: https://gelbooru.com/index.php?page=post&s=view&id=4442333&tags=river+rating%3Ageneral+%7B1girl+~+multiple_girls%7D
+ne_great_lakes_conquest: https://gelbooru.com/index.php?page=post&s=view&id=7318160&tags=lake+beach
+
+[missions/leviathian]
+mission_che_the_beloved_woman: https://gelbooru.com/index.php?page=post&s=view&id=7505116&tags=tent+tribal+
+
+[missions/rb]
 mission_rb_build_furnaces: https://gelbooru.com/index.php?page=post&s=view&id=1437774&tags=%7Bfactory+~+industrial%7D+-no_humans+
